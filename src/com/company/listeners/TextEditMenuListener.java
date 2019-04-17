@@ -26,6 +26,7 @@ public class TextEditMenuListener implements MenuListener {
     @Override
     public void menuDeselected(MenuEvent menuEvent) {
 
+
     }
 
     @Override
