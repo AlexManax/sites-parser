@@ -1,7 +1,5 @@
 package com.company;
 
-import com.company.View;
-
 import javax.swing.*;
 import javax.swing.text.html.HTMLDocument;
 import javax.swing.text.html.HTMLEditorKit;
